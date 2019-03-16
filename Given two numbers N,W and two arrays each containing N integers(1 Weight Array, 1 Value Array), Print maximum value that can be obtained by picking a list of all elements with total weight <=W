@@ -1,0 +1,2 @@
+# Good-question-among-I-have-come-across
+Given two numbers N,W and two arrays each containing N integers(1 Weight Array, 1 Value Array), Print maximum value that can be obtained by picking a list of all elements with total weight <=W
